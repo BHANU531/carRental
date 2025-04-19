@@ -182,11 +182,12 @@ const ViewVariants = () => {
                           className="btn btn-sm bg-color custom-bg-text"
                         >
                           <b> Update</b>
+                        
                         </button>
                         <button
                           onClick={() => deleteVariant(variant.id)}
                           className="btn btn-sm bg-color custom-bg-text mt-2"
-                        >
+                        > 
                           <b>Delete</b>
                         </button>
 
