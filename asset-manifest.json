@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/carRental/static/css/main.885003d8.css",
+    "main.js": "/carRental/static/js/main.4480389f.js",
+    "static/media/passat.jpg": "/carRental/static/media/passat.6d82b61b6b68b1c7089a.jpg",
+    "static/media/camree.png": "/carRental/static/media/camree.62609b57203c0c304d91.png",
+    "static/media/civic.jpg": "/carRental/static/media/civic.0a76c5ad26e94afca272.jpg",
+    "static/media/credit-card.png": "/carRental/static/media/credit-card.3715cbf783fc15546171.png",
+    "static/media/e_logo.png": "/carRental/static/media/e_logo.6196dd041ea1cb41c9a6.png",
+    "static/media/year.png": "/carRental/static/media/year.aa790ea40f191b7d972a.png",
+    "static/media/rent.png": "/carRental/static/media/rent.91f54dc4c1c1bcb8954d.png",
+    "static/media/model.png": "/carRental/static/media/model.c3bf1e3786952ed15036.png",
+    "static/media/dollor_logo.png": "/carRental/static/media/dollor_logo.83236b113bd9d74ffc79.png",
+    "static/media/company.png": "/carRental/static/media/company.f4941fb8e584074d30ab.png",
+    "static/media/fuel.png": "/carRental/static/media/fuel.bfe8b6d3bf97c98a7a3e.png",
+    "static/media/seat.png": "/carRental/static/media/seat.1da0da636f253ff626e6.png",
+    "static/media/ac.png": "/carRental/static/media/ac.4b6173279c8543e331ec.png",
+    "index.html": "/carRental/index.html",
+    "main.885003d8.css.map": "/carRental/static/css/main.885003d8.css.map",
+    "main.4480389f.js.map": "/carRental/static/js/main.4480389f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.885003d8.css",
+    "static/js/main.4480389f.js"
+  ]
+}
